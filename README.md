@@ -15,7 +15,7 @@ This is a simple Python project that showcases the simplicity and versatility of
 The project has the following structure:
 
 - `main.py`: Contains the main program logic.
-- `utils.py`: Contains utility functions or helper code.
+- `
 - `README.md`: Provides an overview and instructions for the project.
 
   - Demonstrates the simplicity and versatility of Python.
